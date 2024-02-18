@@ -8,7 +8,7 @@
 
 <div align="center">
     <h4>To-do-app</h4>
-   <img src="readme-images/todo.png" />
+   <img src="readme-images/todo-desc.png" />
 </div>
 <div align="center">
     <h4>for mobile</h4>
