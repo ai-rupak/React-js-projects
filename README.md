@@ -11,7 +11,4 @@
    <img src="readme-images/todo-desc.png" />
 </div>
 <br>
-<div align="center">
-    <h3>for mobile</h3>
-   <img src="readme-images/todo-mobile.png" />
-</div>
+
