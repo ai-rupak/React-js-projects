@@ -10,7 +10,7 @@ This is a simple React application that allows users to search for movies using 
 
 ## Demo Screeshots
 <div align="center">
-   <img src="readme-images/movieland" />
+   <img src="readme-images/movieland.png" />
 </div>
 
 This project is **free to use** and does not contains any license.
