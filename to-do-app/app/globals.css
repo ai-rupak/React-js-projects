@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@media screen and (max-width:600px){
+  .header{
+    font-size: 25px;
+  }
+
+  .input{
+    font-size: 20px;
+    margin-bottom: 3px;
+  }
+
+  .button{
+    font-size: 17px;
+    align-items: center;
+    padding:0.5rem 0.7rem;
+  }
+
+  .task{
+    font-size: 15px;
+  }
+
+  .list{
+    font-size: 15px;
+  }
+  .box h5{
+    font-size: 16px;
+  }
+  .box h6{
+    font-size: 14px;
+  }
+  .delete {
+    font-size: 13px;
+  
+  }
+}
