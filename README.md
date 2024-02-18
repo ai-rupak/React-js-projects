@@ -2,15 +2,16 @@
 
 ## Demo Screeshots
 <div align="center">
-    <h4>MovieLand</h4>
+    <h3>MovieLand</h3>
    <img src="readme-images/movieland.png" />
 </div>
-
+<br>
 <div align="center">
-    <h4>To-do-app</h4>
+    <h3>To-do-app</h3>
    <img src="readme-images/todo-desc.png" />
 </div>
+<br>
 <div align="center">
-    <h4>for mobile</h4>
+    <h3>for mobile</h3>
    <img src="readme-images/todo-mobile.png" />
 </div>
